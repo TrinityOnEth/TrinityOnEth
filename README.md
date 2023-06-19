@@ -32,13 +32,13 @@ We have exciting plans for future enhancements, including:
 - And much more to be revealed later!
 
 Twitter:
-https://https://twitter.com/Trinity_On_Eth
+https://twitter.com/Trinity_On_Eth
 
 Telegram:
 https://https://t.me/Trinity_On_Eth
 
 Website:
-https://https://trinity-eth.com
+https://trinity-eth.com
 
 Medium:
 [https://github.com/TrinityOnEth/TrinityOnEth](https://medium.com/@trinityoneth/trinity-61c0ccc5ad6d)
